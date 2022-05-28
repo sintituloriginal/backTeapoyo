@@ -1,0 +1,350 @@
+<html>
+
+<head>
+<! href="css/NewGeneral.css" rel="stylesheet" type="text/css" media="all">
+<! href="css/NewPrinter.css" rel="stylesheet" type="text/css" media="print">
+<!-- language="JavaScript1.2" src="js/newvalidaciones.js">-->
+
+<!-- language="JavaScript1.2">			
+	function guardaCtaNva()
+		{				
+		document.Action.submit();	 		
+		}		
+
+	function disabledGuardar()
+		{			
+		var vMuestraBton = 'CSI';		
+		
+		if (vMuestraBton=='CSI') 
+			{
+			document.getElementById("divGuardar").style.display = '';			
+			}
+		else
+			{
+			document.getElementById("divGuardar").style.display = 'none';			
+			}			 		
+		var vCuentaDestino  = 'CCT';
+		if (vCuentaDestino == 'CTG')
+			{
+			document.getElementById("divGuardar").style.display = 'none';			
+			}			 	
+		}		
+-->
+
+
+</head>
+
+<body  onLoad="disabledGuardar()" oncontextmenu="return false;">
+
+<div id="container">
+	<! name="Action" action="/bancoestado/processcnv.asp?MID=9902&AID=NEWTRFATERCEROS-021&RQE=E696E3E3BADD41CBBF3329ECF6BBECF1&rnd=22489BC2&ssnid=1FCB6795" method="post">
+	<div id="encabezado" class="reset_caja">
+		<! align="right" src=" imagesPersonas/logopie.gif" border="0">		
+		<!-- language="JavaScript">document.write('<h1 align="left">');-->
+		Transferencia a Terceros		
+		<!-- language="JavaScript">document.write('</h1>');-->
+	</div>
+	<hr class="LineaGris"></hr>	
+	
+	
+	
+	<div style="margin-bottom:40px;">
+			<div>
+				<!  id="abajoImg" border="0" src=" css/NewImages/1grisclaro.gif" >
+				<! id="abajoImg" border="0" src=" css/NewImages/2grisclaro.gif" >
+				<! id="abajoImg" border="0" src=" css/NewImages/3select.gif" >
+				<! id="abajoImg" width="30px" border="0" src=" css/NewImages/pt.gif" >
+				<div style="display:inline;" class="detalle_Naranja"><b style="font-size:12;">|</b></div>
+				<! id="abajoImg" width="30px" border="0" src=" css/NewImages/pt.gif" >
+				<div style="display:inline;" class="detalle_Naranja">
+					<b style="font-size:12;">3.Comprobante</b>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		
+
+		<br>
+		<head>
+	<meta http-equiv="Expires" content="0">
+	<!-- language="JavaScript1.2" src="scripts/ebankjscript.js">-->
+	<!-- LANGUAGE="JavaScript1.1">
+		
+	
+	function actDatSeg()
+			{		
+			var arryUrl;	
+			var sSubUrl;	
+			var urlSubmit= '/bancoestado/processcnv.asp?MID=9902&AID=NEWTRFATERCEROS-021&RQE=99DEC0676CE7455094876C8920D9B552&rnd=5F6AD0F&ssnid=1FCB6795';			
+			
+			//forma array	
+			arryUrl=urlSubmit.split("&");			
+			
+			//setea MID	
+			sSubUrl=arryUrl[0];		
+			arryUrl[0]=sSubUrl.replace('MID=9902','MID=9904');
+			
+			//setea AID			
+			arryUrl[1]="AID=INGRESADATOSEGURO-050";
+			urlSubmit=arryUrl.join("&");		
+			
+			//asigna nueva url				
+			document.Action.action = urlSubmit;								
+			window.document.Action.submit();
+			}
+		
+		function fnTraeMes(valor)
+			{//dado un número de mes retorna el nombre del mes en palabras..		
+			switch(valor)
+				{
+				case "01":
+					return "enero";
+					break;
+				case "02":
+					return "febrero";
+					break;			
+				case "03":
+					return "marzo";
+					break;
+				case "04":
+					return "abril";
+					break;
+				case "05":
+					return "mayo";
+					break;
+				case "06":
+					return "junio";
+					break;
+				case "07":
+					return "julio";
+					break;
+				case "08":
+					return "agosto";
+					break;
+				case "09":
+					return "septiembre";
+					break;
+				case "10":
+					return "octubre";
+					break;
+				case "11":
+					return "noviembre";
+					break;
+				case "12":
+					return "diciembre";
+					break;
+				}
+			}
+			
+			
+
+	-->
+	
+	
+
+	  
+</head>
+
+
+<! type="hidden" name="FuncionalidadPlantillas" id="FuncionalidadPlantillas" value="SI">
+<! type="hidden" id="TipoBanco" name="TipoBanco" value="BANCO FALABELLA">
+<div class="mensaje fondoGris imprime">
+<p><b>La Transferencia ha sido realizada con &eacute;xito.</b></p>
+
+	<!-- LANGUAGE="JavaScript1.1">
+		var strCorreoOriFlag= 'PANXITA_RIVERA_15@HOTMAIL.COM';		
+		var strGlosa='<p>Se ha enviado una copia de este comprobante a : '
+		var strMascara='';
+		var nPos;
+		
+		if (strCorreoOriFlag != '')
+			{
+			nPos=strCorreoOriFlag.indexOf('@',0);
+			
+			for(var i=0; i<nPos; i++)
+				{
+				strMascara=strMascara + 'X'
+				}			
+			
+			strCorreoOriFlag=strCorreoOriFlag.substring(nPos)	
+			
+			document.write(strGlosa + strMascara + strCorreoOriFlag);
+			}		
+		
+	-->	
+	
+	
+
+	<p>
+		<!-- languaje="JavaScript1.1">
+			var varMuestraBton = 'CSI';
+			var  varNotaTres = 'Si desea guardar esta Cuenta como Frecuente seleccione el bot&oacute;n Guardar Cuenta Frecuente.'
+							
+			if (varMuestraBton=='CSI')
+				{
+				document.write (varNotaTres);	
+				}	
+			
+		-->
+	</p>
+	
+</div>
+
+<div class="mensaje imprime" >
+	<table class="pantalla imprime3 reset_caja">
+		<tr>
+			<td colspan="3" class="reset_caja">
+				<p class="negrita">Comprobante de transferencia</p>
+				Imprima este comprobante para cualquier consulta posterior.
+				
+			</tr>
+		<tr>
+			<td colspan="3" class="alignnumero negrita reset_caja">
+				<!-- LANGUAGE="JavaScript1.1">
+					var strFecha = '12/01/2018 8:54:47'			
+					strFecha = strFecha.substring(0,2) + ' de ' + fnTraeMes(strFecha.substring(3,5)) + ' de ' + strFecha.substring(6,10) + ', ' + strFecha.substring(11,16) + ' hrs.';					
+					document.write(strFecha);
+				-->	
+			
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" class="detalle_Naranja negrita reset_caja">
+			Desde
+			<hr class="LineaGrisSinMedida"></hr>	
+			</td>
+		</tr>
+		<tr>
+			<td class="negrita reset_caja"  width="34%">
+				Producto		
+			</td>
+			<td  colspan="2" width="66%" class="reset_caja">
+				CuentaRUT
+			</td>			
+		</tr>
+		<tr>
+			<td class="negrita reset_caja">
+				N° Cuenta		
+			</td>
+			<td colspan="2" class="reset_caja">
+				0018176973
+			</td>			
+		</tr>
+		<tr>
+			<td colspan="3" class="detalle_Naranja negrita reset_caja">
+			<br/>
+			Hacia
+			<hr class="LineaGrisSinMedida"></hr>
+			</td>
+		</tr>
+		<tr>
+			<td class="negrita reset_caja">
+				Producto		
+			</td>
+			<td colspan="2" class="reset_caja">
+				Cuenta Corriente
+			</td>			
+		</tr>
+		<tr>
+			<td class="negrita reset_caja">
+				N° Cuenta		
+			</td>
+			<td class="reset_caja">
+				17010099687
+			</td>
+			<td rowspan="8" id="selloUno" class="reset_caja"></td>
+		</tr>
+		<tr>
+			<td class="negrita reset_caja">
+				Banco		
+			</td>
+			<td class="reset_caja">
+				BANCO FALABELLA
+			</td>
+			
+		</tr>
+		<tr>
+			<td class="negrita reset_caja">
+				RUT	
+			</td>
+			<td class="reset_caja">
+				17.183.600-K
+			</td>			
+		</tr>
+		<tr>
+			<td class="negrita reset_caja">
+				Nombre		
+			</td>
+			<td class="reset_caja">
+				hugo
+			</td>			
+		</tr>
+		<tr>
+			<td class="negrita reset_caja" width="34%">
+				E-mail	
+			</td>
+			<td width="33%" class="reset_caja">
+				hugoalegria26@gmail.com
+			</td>			
+		</tr>	
+		<tr>
+			<td class="negrita reset_caja">
+				Monto Transferencia $	
+			</td>
+			<td class="reset_caja">
+				 5.000
+			</td>
+			
+		</tr>
+		<tr>
+			<td class="negrita reset_caja">
+				N&uacute;mero Operaci&oacute;n
+			</td>
+			<td class="reset_caja">
+				 7045674
+			</td>
+			
+		</tr>
+		
+		<tr>
+			<td class="negrita reset_caja">
+				Comentario		
+			</td>
+			<td class="reset_caja">
+				
+			</td>
+		</tr>
+		
+	</table>
+</div>
+	
+	
+	
+
+		<br>
+	
+		<div class="botonera nover" name="divBotonera" id="divBotonera"> 
+			<hr class="LineaGris" ></hr>
+			  <table class="reset_caja">
+			    <tr>
+			    <td width="" class="reset_caja" align="center">
+					  <div id="divGuardar">	<! type="button" name="btnGuardar" id="btnGuardar" class="boton_Guardar" onClick ="javascript:guardaCtaNva()"/><br/> Guardar Cuenta Frecuente	</div>
+					</td>	
+			    <td width="33%" class="reset_caja centrar"> 	
+				  	<! type="button" name="imprimir" class="boton_imprimir" onClick ="javascript:window.print()"/><br/>
+			  		Imprimir
+				</td>					
+				<td width="33%" class="reset_caja centrar"> 	
+					<! href="/bancoestado/processcnv.asp?MID=9902&AID=NEWTRFATERCEROS-005&EXP=1&RQI=13B347244171470BA1F099B89F24D162&rnd=624002C&ssnid=1FCB6795"><! src=" css/NewImages/exportar.gif" border=0></a><br/> Exportar a Excel			     				  			
+				</td>
+			    </tr>
+			  </table>	
+			<hr class="LineaNaranja"></hr>
+		</div> 	
+
+	</form>
+</div>
+<font color="red">(*) Si los montos y/o fechas no aparecen en el formato correcto, por favor verifique la configuración regional de su equipo.</font></body>
+</html>

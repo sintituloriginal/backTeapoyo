@@ -1,0 +1,360 @@
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\ApplicationInsights.config
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\csc.exe
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\vbc.exe
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\proyecto.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\proyecto.pdb
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Antlr3.Runtime.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\EntityFramework.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\EPPlus.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.Web.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Newtonsoft.Json.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Oracle.ManagedDataAccess.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Net.Http.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Helpers.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Http.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Http.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Http.WebHost.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Mvc.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Optimization.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Razor.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.WebPages.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\WebGrease.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\EntityFramework.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\EPPlus.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.Web.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Http.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Newtonsoft.Json.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Helpers.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Http.WebHost.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Mvc.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Optimization.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Razor.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.WebPages.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Antlr3.Runtime.pdb
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\System.Web.Http.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.Http.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\obj\Debug\proyecto.csproj.CopyComplete
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\obj\Debug\proyecto.dll
+C:\Users\sinti\Documents\Carpeta personal\t2021036---sgi\server\proyecto\obj\Debug\proyecto.pdb
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\ApplicationInsights.config
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\csc.exe
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\vbc.exe
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\proyecto.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\proyecto.pdb
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Antlr3.Runtime.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\EntityFramework.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\EPPlus.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.Web.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Newtonsoft.Json.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Oracle.ManagedDataAccess.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Net.Http.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Helpers.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Http.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Http.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Http.WebHost.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Mvc.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Optimization.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Razor.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.WebPages.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\WebGrease.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\EntityFramework.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\EPPlus.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.Web.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Http.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Newtonsoft.Json.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Helpers.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Http.WebHost.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Mvc.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Optimization.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Razor.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.WebPages.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Antlr3.Runtime.pdb
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\System.Web.Http.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.Http.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\obj\Debug\proyecto.csproj.CopyComplete
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\obj\Debug\proyecto.dll
+C:\Users\sinti\Documents\Carpeta personal\TE APOYO PROYECTO\server\proyecto\obj\Debug\proyecto.pdb
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\ApplicationInsights.config
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\csc.exe
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\vbc.exe
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\proyecto.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\proyecto.pdb
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Antlr3.Runtime.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\EntityFramework.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\EPPlus.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.Web.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Newtonsoft.Json.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Oracle.ManagedDataAccess.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Net.Http.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Helpers.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Http.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Http.Owin.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Http.WebHost.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Mvc.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Optimization.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Razor.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.WebPages.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\WebGrease.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\EntityFramework.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\EPPlus.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.Web.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Http.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Newtonsoft.Json.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Helpers.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Http.WebHost.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Mvc.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Optimization.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Razor.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.WebPages.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Antlr3.Runtime.pdb
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\System.Web.Http.Owin.xml
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.Http.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\obj\Debug\proyecto.csproj.CopyComplete
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\obj\Debug\proyecto.dll
+C:\Users\sinti\Documents\Carpeta personal\GITTEAPOYO\Te_Apoyo\server\proyecto\obj\Debug\proyecto.pdb

@@ -1,0 +1,141 @@
+1
+ Página principal
+ index.htm
+2
+ Inicio/Dashboard
+ inicio_dashboard.htm
+3
+ Gestores
+ gestores.htm
+4
+ Gestor Documental
+ gestor_documental.htm
+5
+ Nuevo Documento
+ nuevo_documento.htm
+6
+ Acciones Gestor Documental
+ acciones_gestor_documental.htm
+7
+ Editar
+ editar.htm
+8
+ Eliminar
+ eliminar_1.htm
+9
+ Publicar
+ publicar_1.htm
+10
+ Historial
+ historial_1.htm
+11
+ Visor de Documentos
+ visor_de_documentos.htm
+12
+ Gestor no Conformidades
+ gestor_no_conformidades.htm
+13
+ Acción correctiva
+ accion_correctiva.htm
+14
+ Gestor de Norma
+ gestor_de_norma.htm
+15
+ Importar/Exportar
+ importar_exportar.htm
+16
+ Publicar
+ publicar_2.htm
+17
+ Auditoria
+ auditoria.htm
+18
+ Nueva Auditoría
+ nueva_auditoria.htm
+19
+ Evaluar Punto Normativo
+ evaluar_punto_normativo.htm
+20
+ Revisión de una No Conformidad
+ revision_de_una_no_conformidad.htm
+21
+ Historial
+ historial_2.htm
+22
+ No Conformidad Proceso o Reclamo
+ no_conformidad_proceso_o_reclamo.htm
+23
+ Cierre Auditoria
+ cierre_auditoria.htm
+24
+ Vincular/Desvincular Documento
+ vincular_desvincular_documento.htm
+25
+ Visualizar
+ visualizar.htm
+26
+ Mantenedores
+ mantenedores.htm
+27
+ Sistemas
+ sistemas.htm
+28
+ Constantes
+ constantes.htm
+29
+ Acciones del listado
+ acciones_del_listado_1.htm
+30
+ Editar Constante
+ editar_constante.htm
+31
+ Perfiles
+ perfiles.htm
+32
+ Nuevo Perfil
+ nuevo_perfil.htm
+33
+ Acciones del listado
+ acciones_del_listado_2.htm
+34
+ Editar Perfil
+ editar_perfil.htm
+35
+ Eliminar
+ eliminar_2.htm
+36
+ Usuario
+ usuario.htm
+37
+ Nuevo Usuario
+ nuevo_usuario.htm
+38
+ Acciones del listado
+ acciones_del_listado_3.htm
+39
+ Editar Usuario
+ editar_usuario.htm
+40
+ Deshabilitar/Habilitar
+ deshabilitar_habilitar_1.htm
+41
+ Centros
+ centros.htm
+42
+ Área
+ area.htm
+43
+ Nueva Área
+ nueva_area.htm
+44
+ Acciones del Listado
+ acciones_del_listado_4.htm
+45
+ Editar Área
+ editar_area.htm
+46
+ Deshabilitar/Habilitar
+ deshabilitar_habilitar_2.htm
+47
+ Notificaciones
+ notificaciones.htm
